@@ -42,6 +42,6 @@
             padding: 16px 0;
             justify-content: center;}
 
-.topico-estudante {padding: 0 60px;}
-.todos-estudantes { grid-template-columns: 20% 20% 20% 20%;}
+.topico-estudantes {padding: 0 60px;}
+.todos-estudantes { grid-template-columns: 20% 20% 20% 20% 20%;}
 
