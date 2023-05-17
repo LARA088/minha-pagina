@@ -37,7 +37,7 @@
 .estudantes-imagem {width: 100px;}
 .estudantes-titulo{ padding: 20px 0 0 150px;}
 
-.estudantes-div { text-align: center
+.estudantes-div { text-align: center;
             display: flex;
             padding: 16px 0;
             justify-content: center;}
